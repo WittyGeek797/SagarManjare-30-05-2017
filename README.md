@@ -1,2 +1,2 @@
 # SagarManjare-30-05-2017
-Python Assignments
+Read the Documentation.docx for all the explanation regarding the assignments.
